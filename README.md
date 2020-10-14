@@ -1,6 +1,7 @@
 # EXPRESS BARTENDER
 ![image](https://img.shields.io/badge/license-MIT%20License-green)
 
+Check out the <a href='https://team-express-bartender.herokuapp.com/'>deployed app</a>!
 
 ## CONCEPT
 
